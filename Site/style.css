@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 1rem;
+    text-align: justify;
+}
+header{
+    margin: 0px 0px;
+    background-color: rgba(11, 40, 43, 0.199);
+}
+nav{
+    margin: 0;
+    display: flex;
+    justify-content: left;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
